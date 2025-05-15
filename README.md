@@ -13,6 +13,7 @@
   <a href='https://reactjs.org/' target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/><a/>&nbsp;
   <a href='https://vuejs.org/' target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" alt="VueJS" width="40" height="40"/><a/>&nbsp;
   <a href='https://nodejs.org/en/' target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/><a/>&nbsp;
+   <a href='https://python.org' target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/><a/>&nbsp;
 
 </p>
 
@@ -46,6 +47,6 @@
 
 
 ### 📫 How to reach me: [My Telegram](https://t.me/SerKin18)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeyKinyak&layout=compact&hide=python)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeyKinyak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
     <br/>
 <a href='https://www.codewars.com/users/SerKin18' target="_blank" rel="noreferrer"><img src="https://www.codewars.com/users/SerKin18/badges/large" title="codewars"  alt="Codewars"/><a/></p>
